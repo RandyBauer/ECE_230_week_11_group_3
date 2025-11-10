@@ -1,4 +1,4 @@
-# Sequential Circuits: Latches
+# Edge Sensitive Circuits
 
 # Group 3: Gage Magras, Randy Bauer
 
